@@ -1,5 +1,5 @@
 # Toggle Data Task:
-### Hosted Link:
+### Hosted Link: https://divyanshrajpoot9.github.io/Toggle_Data_Task/
 ### Technologies Used: HTML/CSS/JavaScript.
 ### JavaScript DOM Manipulation:
 The Document Object Model (DOM) is a programming interface for web documents. It provides a structured web page representation, allowing you to access and manipulate its elements and content using JavaScript. Here are some basic DOM properties and methods.
